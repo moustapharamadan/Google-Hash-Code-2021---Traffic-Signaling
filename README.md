@@ -8,7 +8,7 @@ More details:[Problem Statement](https://storage.googleapis.com/coding-competiti
 <h2>Attempt 1: </h2>
 Straightforward solution by grouping all incoming streets with their end intersection (where we have the related traffic light).<br>
 Turn on every traffic light for 1 sec.<br>
-![img.png](img.png)
+<img alt="Attempt 1" src="img.png">
 <h3 style="text-align: center">Result = 7,885,740 points</h3>
 <h2>Attempt 2: </h2>
 Straightforward solution by grouping all incoming streets with their end intersection (where we have the related traffic light).<br>
